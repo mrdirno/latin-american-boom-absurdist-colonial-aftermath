@@ -1,0 +1,160 @@
+{
+  "book_id": "the-general-head-tuesday",
+  "title": "The General's Head Arrived on a Tuesday",
+  "tagline": "A preserved head from the colonial past disrupts a forgotten town, forcing its inhabitants to confront the absurd legacy of history.",
+  "target_words": 70000,
+  "actual_words": 75364,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of History",
+    "The Haunting Absurdity of Colonial Legacy",
+    "Memory as a Tangible, Problematic Object",
+    "The Collective Delusion of National Narratives"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Crate",
+      "words": 3140
+    },
+    {
+      "ch": 2,
+      "title": "Consultation with Relevant Authorities",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "Custodial Holding",
+      "words": 3050
+    },
+    {
+      "ch": 4,
+      "title": "Meteorological Clarification",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "The Postman's Theorem",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Saints and Solitaire",
+      "words": 3150
+    },
+    {
+      "ch": 7,
+      "title": "The Widow's Diagnosis",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "Father Benítez's Doubt",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "Form B-7, Triplicate",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Parrot Sanctuary",
+      "words": 3250
+    },
+    {
+      "ch": 11,
+      "title": "A Grenade in the Siesta",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "The Blurred Postmark",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "The Headless Statue's Shoulders",
+      "words": 3350
+    },
+    {
+      "ch": 14,
+      "title": "The Collector's Vault",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "Heretical Preservation",
+      "words": 3050
+    },
+    {
+      "ch": 16,
+      "title": "The Spiritual Tax",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Cosmic Joke",
+      "words": 3150
+    },
+    {
+      "ch": 18,
+      "title": "The Long Way Round",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "Administrative Disappointment",
+      "words": 3250
+    },
+    {
+      "ch": 20,
+      "title": "The Sea, Presumably",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "A Problem of European Wax",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Silence After the Question",
+      "words": 3400
+    },
+    {
+      "ch": 23,
+      "title": "The Donkey's Bray",
+      "words": 3050
+    },
+    {
+      "ch": 24,
+      "title": "Preamble",
+      "words": 2900
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter from the perspective of the General's head, experiencing the journey from the shipwreck to the crate in Rotterdam.",
+      "Create a subplot where a bureaucrat from the capital arrives, intent on cataloging the head, and is slowly driven mad by the town's passive resistance.",
+      "Draft a 'found document'—a series of increasingly desperate memos from the tourism ministry about leveraging the 'Head Affair' for a failed promotional campaign.",
+      "Write a scene where the townspeople stage a surreal, silent play for the head, each acting out their interpretation of colonial history."
+    ],
+    "technical": [
+      "Build a 'Paperwork Simulator' that generates endless, slightly absurd bureaucratic forms (like B-7) in response to user-input historical 'problems'.",
+      "Create an interactive map tracing the head's fictional journey via postmarks, with each location triggering a micro-story about failed states, lost histories, and global trade."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Franz Kafka",
+      "Juan Rulfo",
+      "Samanta Schweblin"
+    ]
+  },
+  "cover_prompt": "A single, impeccably preserved head of a 19th-century general in a glass bell jar, its expression stern yet absurdly serene, sits centered on a worn wooden desk in a dusty, forgotten municipal archive, surrounded by chaotic piles of yellowed paperwork, outdated stamps, and a single forgotten coffee cup, [atmospheric setting with mood-appropriate details], in the atmospheric style of Gabriel García Márquez's magical realist illustrations combined with the haunting, textured realism of Edward Hopper's lonely interiors, [book cover framing, centered composition, dramatic angle], dramatic low-angle shot looking up at the jar as if it is a monument, emphasizing its imposing, surreal presence amidst the bureaucratic clutter, [appropriate lighting style with color temperature], stark, dramatic chiaroscuro lighting from a single bare bulb overhead, casting long, deep shadows that hide corners of the room, color palette of sepia, dusty ochre, and faded bureaucratic green, punctuated by the cold glass and pale flesh of the head, [quality enforcers], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
