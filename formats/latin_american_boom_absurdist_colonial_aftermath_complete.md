@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The General’s head arrived on a Tuesday, packed in a crate of sawdust that smelled of cedar and, faintly, of formalin. It was addressed to the Municipal Palace, but the postman, a man whose mustache was perpetually damp with the effort of existing, took one look at the customs stamps—a dizzying collage of eagles, suns, and broken seals from places that no longer appeared on maps—and decided it was too official for his salary. He rerouted it to the Museum of National Memory, which was not a museum but a three-room annex behind the town’s only functioning church, run by a man named Don Eusebio who was not a historian but a retired notary with a tremor in his left hand.
@@ -95,6 +97,8 @@ He closed the book. The head sat on the desk, a paperweight for a nation that ha
 Don Eusebio looked from the widow to the priest to the severed head of a liberator. He felt a laugh bubbling up, a dry, silent thing that got stuck in his chest. This was the inheritance. Not gold, not glory, not a legacy of bronze. A head in a box, a committee of three, and a ledger that would fill with the quiet, bizarre minutes of their guardianship. The Boom had ended, the dictators had come and gone, the magic realism had been replaced by bureaucratic realism. And yet, here was the past, literally at hand, demanding a form in triplicate.
 
 He picked up his pen again. The story, it seemed, was not finished. It was just being filed.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -243,6 +247,8 @@ Benítez made the sign of the cross, this time with genuine feeling. “*Lacryma
 Don Eusebio looked at Iñigo. The head’s expression was unchanged. Yet, something had shifted. The air in the room was charged, thick with the scent of cedar, *aguardiente*, and something else—the faint, electric smell of a story taking root. They had won a stay of execution with a tear. A miracle of bureaucracy.
 
 He closed the ledger. The head was still theirs. But it was no longer just a head. It was a co-conspirator. And it had just spoken, in the only language their world understood: an ambiguous, perfectly-timed, administrative mystery.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
